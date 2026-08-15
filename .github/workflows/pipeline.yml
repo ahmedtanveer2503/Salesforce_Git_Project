@@ -144,7 +144,7 @@ jobs:
               --post-destructive-changes delta/destructiveChanges/destructiveChanges.xml \
               --target-org target-org \
               --test-level NoTestRun \
-              --wait 30
+              --wait 30 
           else
             echo "No destructive changes found. Skipping."
           fi
