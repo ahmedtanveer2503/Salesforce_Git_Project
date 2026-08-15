@@ -7,4 +7,11 @@
         <shortDescription>test label</shortDescription>
         <value>test1</value>
     </labels>
+    <labels>
+        <fullName>testlabel222</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>test label 12</shortDescription>
+        <value>testttt</value>
+    </labels>
 </CustomLabels>
